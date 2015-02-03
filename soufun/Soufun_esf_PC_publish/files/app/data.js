@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"app.html",
+  "generationDate":new Date(1422951640617.25),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"36a4eb1b83e6421b96f034c5ccaf0668",
+    "type":"Axure:Page",
+    "name":"APP",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e02f80ce30a647e5a0eca553928d488e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1330,
+              "height":3304}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c1f014b27f8548bc9e8d0bbfd52b1df0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1330,
+                  "height":3304}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/app/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e02f80ce30a647e5a0eca553928d488e":{
+      "scriptId":"u0"},
+    "c1f014b27f8548bc9e8d0bbfd52b1df0":{
+      "scriptId":"u1"}}});

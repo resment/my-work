@@ -1,0 +1,182 @@
+﻿$axure.loadCurrentPage({
+  "url":"home.html",
+  "generationDate":new Date(1422951639726.2),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c19c8859ab9d4efebaaff218863e8337",
+    "type":"Axure:Page",
+    "name":"home",
+    "notes":{
+      "默认":"<p><span>原来的卖房入口不明显，在醒目位置添加“免费发布二手房源”。</span></p>"},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b85c098f137241c3afdf598385303fdc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1330,
+              "height":7909}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"89078385ef4242289ed271334b7c0d1a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1330,
+                  "height":7909}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u0.png"}},
+{
+          "id":"39670fc0db63411883d3c11468532a9a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "stateStyles":{
+              "mouseOver":{
+                "opacity":"1"}},
+            "opacity":"0.75",
+            "location":{
+              "x":1126,
+              "y":210},
+            "size":{
+              "width":148,
+              "height":34}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"627e4623903740919d98f7e5376f6648",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "stateStyles":{
+                  "mouseOver":{
+                    "opacity":"1"}},
+                "opacity":"0.75",
+                "location":{
+                  "x":1126,
+                  "y":210},
+                "size":{
+                  "width":148,
+                  "height":34}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 Page1",
+                      "target":{
+                        "targetType":"page",
+                        "url":"page1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "annotation":{
+            "描述":"添加“免费发布二手房源”按钮，更加明显，用户更容易找到"},
+          "images":{
+            "normal~":"images/home/u2.gif",
+            "mouseOver~":"images/home/u2.gif"}},
+{
+          "id":"cf618bdb8d2443569f10e25ab1941a2e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "opacity":"0",
+            "location":{
+              "x":1036,
+              "y":598},
+            "size":{
+              "width":110,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"322ef58557d44e13bb28f26c99d6805f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0",
+                "location":{
+                  "x":1036,
+                  "y":598},
+                "size":{
+                  "width":110,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 Page1",
+                      "target":{
+                        "targetType":"page",
+                        "url":"page1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b85c098f137241c3afdf598385303fdc":{
+      "scriptId":"u0"},
+    "89078385ef4242289ed271334b7c0d1a":{
+      "scriptId":"u1"},
+    "39670fc0db63411883d3c11468532a9a":{
+      "scriptId":"u2"},
+    "627e4623903740919d98f7e5376f6648":{
+      "scriptId":"u3"},
+    "cf618bdb8d2443569f10e25ab1941a2e":{
+      "scriptId":"u4"},
+    "322ef58557d44e13bb28f26c99d6805f":{
+      "scriptId":"u5"}}});

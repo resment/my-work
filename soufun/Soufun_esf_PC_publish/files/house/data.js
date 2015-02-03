@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"house.html",
+  "generationDate":new Date(1422951640995.27),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c3c13da0ce9f49c69814f51939ab99dd",
+    "type":"Axure:Page",
+    "name":"house",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"20b3dce860e74f229f243cb72449ebee",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1330,
+              "height":7252}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1a2a97bb1d514b05965f2f0a55a1af41",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1330,
+                  "height":7252}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/house/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "20b3dce860e74f229f243cb72449ebee":{
+      "scriptId":"u0"},
+    "1a2a97bb1d514b05965f2f0a55a1af41":{
+      "scriptId":"u1"}}});
